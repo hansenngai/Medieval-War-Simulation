@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Field()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Field.\ Default\ start\ up\ variables.\r\n
+comment1.params=basePoints1\ startBareFoot1\ spawnTime1\ startResearch1\ startStorage1\ basePoints2\ startBareFoot2\ spawnTime2\ startResearch2\ startStorage2
+comment1.target=Field(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Field.\ User\ must\ specify\ specific\ start-up\ variables.\r\n\ @param\ basePoints1-\ start\ up\ base\ points\ for\ team\ 1\ (on\ the\ left)\r\n\ @param\ startBareFoot1-\ initial\ number\ of\ barefoots\ to\ be\ spawned\ at\ the\ begining\ of\ the\ stimulation\ for\ team\ 1\ (on\ the\ left)\r\n\ @param\ spawnTime1-\ after\ how\ many\ acts\ should\ a\ new\ barefoot\ spawn\ for\ team\ 1\ (on\ the\ left)\r\n\ @param\ startResearch1-\ which\ research\ level\ should\ team\ 1\ (on\ the\ left)\ start\ with\r\n\ @param\ startStorage1-\ how\ many\ points\ should\ team\ 1\ (on\ the\ left)\ start\ with\r\n\ @param\ basePoints2-\ start\ up\ base\ points\ for\ team\ 2\ (on\ the\ right)\r\n\ @param\ startBareFoot2-\ initial\ number\ of\ barefoots\ to\ be\ spawned\ at\ the\ begining\ of\ the\ stimulation\ for\ team\ 2\ (on\ the\ right)\r\n\ @param\ spawnTime2-\ after\ how\ many\ acts\ should\ a\ new\ barefoot\ spawn\ for\ team\ 2\ (on\ the\ right)\r\n\ @param\ startResearch2-\ which\ research\ level\ should\ team\ 2\ (on\ the\ right)\ start\ with\r\n\ @param\ startStorage2-\ how\ many\ points\ should\ team\ 2\ (on\ the\ right)\ start\ with\r\n\ \r\n
+comment2.params=
+comment2.target=MainBase\ getTeam1()
+comment2.text=\r\n\ Gets\ the\ mainbase\ for\ team1\ (on\ the\ left).\r\n\ @return\ -\ the\ mainbase\ of\ the\ left\ team\r\n
+comment3.params=
+comment3.target=MainBase\ getTeam2()
+comment3.text=\r\n\ Gets\ the\ mainbase\ for\ team2\ (on\ the\ right).\r\n\ @return\ -\ the\ mainbase\ of\ the\ right\ team\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Do\ what\ the\ class\ wants\ to\ do\ when\ run\ is\ pressed\r\n
+comment5.params=
+comment5.target=void\ started()
+comment5.text=\r\nPlays\ the\ background\ music.\ Gets\ called\ to\ continue\ playing\ the\ music\ when\ it\ stops\ by\ the\ stopped\ method\r\n
+comment6.params=
+comment6.target=void\ stopped()
+comment6.text=\r\n\ Pauses\ the\ background\ music\r\n
+comment7.params=side
+comment7.target=void\ goToWin(boolean)
+comment7.text=\r\n\ Method\ to\ call\ a\ new\ winning\ world\ to\ proclaim\ the\ other\ team\ won\r\n\ \r\n\ @param\ boolean\ \ \ the\ side\ the\ main\ base\ that\ is\ calling\ this\ method\ is\ on\r\n
+numComments=8

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ numberOfRiders()
+comment0.text=\r\n\ Returns\ the\ number\ of\ riders\ on\ the\ vehicle\r\n\ @return\ -\ the\ number\ of\ riders\ on\ the\ vehicle\r\n
+comment1.params=
+comment1.target=void\ chooseSoldiers()
+comment1.text=\r\n\ Chooses\ and\ defines\ soldiers\ from\ the\ world\ that\ will\ ride\ the\ vehicle\r\n
+comment2.params=
+comment2.target=void\ ride()
+comment2.text=\r\n\ Soldiers\ ride\ the\ vehicle\ if\ they\ come\ close\ to\ it.\r\n
+comment3.params=
+comment3.target=void\ determineClosestTarget()
+comment3.text=\r\n\ Determines\ the\ closest\ soldier\ to\ the\ vehicle\ based\ on\ the\ list\ defined\ in\ each\ vehicle\ sub-class.\r\n\ Gets\ called\ by\ the\ checkSoldier\ and\ chooseSoldiers\ methods.\r\n
+comment4.params=
+comment4.target=boolean\ checkSoldier()
+comment4.text=\r\n\ Checks\ if\ there\ are\ any\ nearby\ soldier\ in\ the\ area\r\n\ and\ sees\ if\ he\ is\ close\ enough\ to\ jump\ on\ the\ elephant\r\n\ @return\ true-soldier\ ready\ to\ jump,\ false-\ no\ soldiers\ available\r\n
+numComments=5

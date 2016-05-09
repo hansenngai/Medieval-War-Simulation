@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StatDisplay()
+comment0.text=\r\n\ Contructor\ for\ the\ Stat\ display.\ Draws\ the\ image\ for\ the\ minimized\ bar\ only\r\n
+comment1.params=
+comment1.target=void\ updateDisplay()
+comment1.text=\r\n\ Updates\ display\ with\ values\ taken\ from\ both\ bases.\r\n
+comment2.params=
+comment2.target=void\ checkClicked()
+comment2.text=\r\n\ Checks\ to\ see\ if\ this\ object\ is\ clicked\ and\ if\ so,\ initiate\ the\ transformation\ to\ expanded\r\n\ or\ minimzied\ window\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ StatDisplay\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Displays\ the\ stat\ display\ depending\ on\ \r\n
+numComments=4

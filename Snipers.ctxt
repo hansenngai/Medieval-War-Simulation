@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=side
+comment0.target=Snipers(boolean)
+comment0.text=\r\n\ Constructs\ the\ snipers.\ Defines\ the\ side\ the\ sniper\ comes\ from.\r\n\ @param\ side-\ which\ base\ the\ horse\ will\ come\ from\ true\ -\ right\ side,\ false-\ left\ side\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Shoot\ at\ the\ soldiers\ from\ the\ other\ side\ if\ they\ come\ close\ to\ the\ base.\r\n
+comment2.params=
+comment2.target=void\ shoot()
+comment2.text=\r\n\ Shoots\ at\ the\ nearby\ soldiers.\ Does\ not\ work\ every\ time\ it\ is\ called.\r\n\ The\ counter\ variable\ should\ be\ divisible\ by\ 25\ for\ the\ shooting\ to\ take\ place.\r\n
+numComments=3

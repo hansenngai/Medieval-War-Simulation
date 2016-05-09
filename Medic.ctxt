@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=side\ base
+comment0.target=Medic(boolean,\ MainBase)
+comment0.text=\r\n\ Creates\ an\ instance\ of\ Medic.\ Sets\ the\ speed\ and\ the\ side\ from\ which\ the\ medic\ comes\ from.\r\n\ @param\ side\ true\ if\ medic\ belongs\ to\ the\ left\ side,\ false\ if\ it\ belongs\ to\ the\ right\ side\r\n\ @param\ base\ in\ which\ the\ medic\ originates\ from\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Medics\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Controls\ the\ movement\ of\ the\ actor\ at\ different\ situations.\r\n
+comment2.params=
+comment2.target=void\ determineClosestTarget()
+comment2.text=\r\n\ Determines\ out\ of\ the\ possible\ tombstones\ on\ the\ screen,\ the\ tombstone\ that\ is\ closest\ to\ the\ medic\ (same\ side)\r\n
+comment3.params=
+comment3.target=boolean\ locateNearestTombstone()
+comment3.text=\r\n\ Locates\ the\ nearest\ Tombstone\ from\ its\ side.\ Defines\ the\ target\ to\ be\ used\ in\ the\ walkToNearestTombstone\ and\ act\ methods.\r\n\ @return\ true\ -\ there\ is\ a\ tombstone\ in\ the\ area\ and\ successfully\ located\ it,\ false\ -\ did\ not\ locate\ any\ tombstone\r\n
+comment4.params=
+comment4.target=void\ walkToNearestTombstone()
+comment4.text=\r\n\ Medic\ walks\ towards\ the\ nearest\ tombstone\ on\ its\ side.\r\n
+comment5.params=
+comment5.target=void\ returnToBase()
+comment5.text=\r\n\ Medic\ walks\ back\ to\ the\ MainBase\ in\ which\ it\ came\ from.\ This\ method\ gets\ called\ in\ the\ act\ method\ after\r\n\ the\ medic\ successfully\ revives\ all\ 3\ soldiers\ from\ his\ side.\r\n
+comment6.params=
+comment6.target=boolean\ healSoldier()
+comment6.text=\r\n\ Checks\ to\ see\ if\ a\ medic\ collides\ with\ a\ tombstone\ from\ its\ own\ side.\r\n\ \r\n\ @return\ boolean\ true\ if\ collision\ occurs,\ otherwise,\ false\r\n
+comment7.params=
+comment7.target=boolean\ checkObstacle()
+comment7.text=\r\n\ Checks\ if\ the\ soldier\ hits\ an\ obstacle\ (tree)\ or\ not.\r\n\ @return\ true\ -\ there\ is\ an\ obstacle,\ false\ -\ there\ isn't\ an\ obstacle\r\n
+numComments=8

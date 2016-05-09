@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=randomX\ randomY
+comment0.target=Ammo(int,\ int)
+comment0.text=\r\n\ Constructs\ the\ ammo.\ Scales\ the\ ammo\ to\ a\ specific\ size\ and\ sets\ the\ location\ at\ which\ the\ ammo\ will\ be\ aimed\ at.\r\n\ @param\ randomX-\ random\ x-coordinate\ on\ the\ screen\ (provided\ by\ the\ cannon)\r\n\ @param\ randomY-\ random\ y-coordinate\ on\ the\ screen\ (provided\ by\ the\ cannon)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Ammo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Displays\ the\ animation\ of\ the\ cannon\ ball.\r\n
+comment2.params=
+comment2.target=void\ animation()
+comment2.text=\r\n\ Animates\ the\ cannon\ ball\ in\ its\ journey\ towards\ a\ random\ position\ on\ the\ screen.\r\n\ Increases\ the\ size\ of\ the\ cannon\ ball\ until\ half\ way\ and\ then\ starts\ to\ decrease\ its\ size.\ Imitates\ the\ appearance\ of\ a\ top\r\n\ view\ of\ the\ battle\ field.\r\n
+comment3.params=actor
+comment3.target=double\ calculateDistance(greenfoot.Actor)
+comment3.text=\r\n\ Calculate\ the\ distance\ between\ the\ cannon\ ball\ and\ a\ random\ position\ on\ the\ screen.\r\n\ @param\ actor\ -\ the\ cannon\ ball\r\n
+numComments=4

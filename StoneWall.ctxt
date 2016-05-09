@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=inputSide
+comment0.target=StoneWall(boolean)
+comment0.text=\r\n\ Creates\ a\ stone\ wall\ for\ an\ indicated\ side.\r\n\ \r\n\ @param\ inputSide\ Indicates\ which\ side\ the\ stone\ wall\ is\ for.\ True\ for\ one,\ and\ false\ for\ the\ other.\r\n
+comment1.params=inputSide\ hitPointsIn
+comment1.target=StoneWall(boolean,\ int)
+comment1.text=\r\n\ Creates\ a\ stone\ wall\ for\ an\ indicated\ side\ with\ a\ predetermined\ starting\ hit\ points.\r\n\ \r\n\ @param\ inputSide\ Indicates\ which\ side\ the\ stone\ wall\ is\ for.\ True\ for\ one,\ and\ false\ for\ the\ other.\r\n\ @param\ hitPointsIn\ The\ amount\ of\ hit\ points\ the\ wall\ starts\ with.\r\n
+comment2.params=hitPoints
+comment2.target=void\ setHitPoints(int)
+comment2.text=\r\n\ Sets\ the\ Stone\ Wall's\ current\ hit\ points.\ Used\ to\ decrease\ \r\n\ the\ hit\ points\ of\ the\ stone\ wall.\r\n\ \r\n\ @param\ hitPoints\ the\ new\ hit\ point\ the\ stone\ wall\ will\ now\ have\r\n
+numComments=3

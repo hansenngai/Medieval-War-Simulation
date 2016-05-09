@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=side
+comment0.target=Tombstone(boolean)
+comment0.text=\r\n\ Constructs\ a\ tombstone.\ Sets\ which\ side\ the\ tombstone\ belongs\ to.\r\n\ @param\ side\ -\ true\ -\ left\ side,\ false\ -right\ side\r\n
+comment1.params=
+comment1.target=boolean\ getSide()
+comment1.text=\r\n\ Returns\ which\ side\ the\ tombstone\ belongs\ to.\r\n\ @return\ true\ -left\ side,\ false-right\ side\r\n
+numComments=2

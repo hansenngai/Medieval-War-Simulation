@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=number\ target
+comment0.target=HealthIcon(int,\ greenfoot.Actor)
+comment0.text=\r\n\ Creates\ an\ instance\ of\ HealthIcon.\ \r\n\ @param\ number\ Determines\ the\ number\ associated\ with\ the\ HealthIcon\r\n\ @param\ target\ Determines\ the\ actor\ that\ the\ HealthIcon\ will\ be\ following\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ method\ for\ the\ HealthIcon\ class.\ Retrieves\ the\ current\ location\ of\ the\ target\ on\ the\ screen\ and\ sets\ the\ location\ of\ the\ HealthIcon\ \r\n\ based\ on\ these\ coordinates.\ Each\ HealthIcon\ has\ a\ different\ offset\ based\ on\ its\ corresponding\ number.\r\n
+numComments=2

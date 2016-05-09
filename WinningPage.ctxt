@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=side
+comment0.target=WinningPage(boolean)
+comment0.text=\r\n\ Constructor\ the\ WinningPage.\ Identifies\ the\ winning\ side\r\n\ @param\ side\ true\ -\ left\ side\ won,\ false-\ right\ side\ won\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Diplays\ the\ winning\ screen.\r\n
+numComments=2

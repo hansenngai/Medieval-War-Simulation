@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=side\ base
+comment0.target=Scout(boolean,\ MainBase)
+comment0.text=\r\n\ Creates\ an\ instance\ of\ Scout.\ Set\ the\ speed\ of\ the\ scout\ and\ which\ base\ it\ comes\ from.\r\n\ \r\n\ @param\ side\ Determines\ the\ side\ in\ which\ the\ scout\ belongs\ to\r\n\ @param\ b\ Determines\ the\ base\ the\ scout\ will\ belong\ to\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Scouts\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Controls\ the\ movement\ of\ the\ scout\ in\ different\ situations\r\n
+comment2.params=
+comment2.target=void\ determineClosestTarget()
+comment2.text=\r\n\ Determines\ out\ of\ the\ possible\ crates\ on\ the\ screen,\ the\ crate\ that\ is\ closest\ to\ the\ medic\ (same\ side)\r\n
+comment3.params=
+comment3.target=boolean\ locateNearestCrate()
+comment3.text=\r\n\ Locates\ the\ nearest\ crate\ and\ defines\ it\ to\ be\ used\ in\ the\ walkToNearestCrate\ method.\r\n
+comment4.params=
+comment4.target=void\ walkToNearestCrate()
+comment4.text=\r\n\ Scout\ walks\ towards\ the\ nearest\ crate\ on\ its\ side\r\n
+comment5.params=
+comment5.target=boolean\ checkHitCrate()
+comment5.text=\r\n\ Determines\ if\ the\ scout\ has\ collided\ with\ a\ crate\r\n\ \r\n\ @return\ boolean\ true\ if\ scout\ is\ touching\ a\ crate,\ false\ if\ otherwise\r\n
+comment6.params=
+comment6.target=void\ returnToBase()
+comment6.text=\r\n\ Scout\ walks\ back\ to\ the\ MainBase\ in\ which\ it\ came\ from.\ This\ gets\ called\ by\ the\ main\ method\r\n\ once\ the\ scout\ collects\ all\ the\ crates\ the\ belongs\ to\ his\ side.\r\n
+comment7.params=
+comment7.target=boolean\ checkCratesInWorld()
+comment7.text=\r\n\ Checks\ if\ there\ are\ crates\ existent\ in\ the\ world\ for\ a\ scout\ to\ pick\ up\r\n\ \r\n\ @return\ boolean\ true\ there\ are\ no\ crates\ available\ in\ the\ world,\ false\ if\ there\ are\ crates\r\n
+numComments=8

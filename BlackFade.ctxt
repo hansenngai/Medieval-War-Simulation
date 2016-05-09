@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=check
+comment0.target=BlackFade(boolean)
+comment0.text=\r\n\ Creates\ Fade\ that\ fades\ from\ black\ to\ transparent\r\n\ @param\ check\ -\ true\ fade\ from\ black\ to\ transparent,\ false-\ fade\ to\ black\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ BlackFade\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Controls\ the\ animation\ for\ the\ fade\r\n
+comment2.params=
+comment2.target=boolean\ getCheckDone()
+comment2.text=\r\n\ \ Gets\ the\ checkDone\ to\ see\ if\ the\ fade\ is\ finished\ fading\r\n\ \ \r\n\ \ @return\ boolean\ \ \ \ \ the\ status\ of\ whether\ the\ black\ fade\ is\ done\ fading\r\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sideIn
+comment0.target=Storage(boolean)
+comment0.text=\r\n\ Creates\ a\ Storage\ building\ that\ has\ the\ default\ hitPoints\ and\ \r\n\ side\ that\ needs\ to\ be\ specified\ \r\n\ \r\n\ @param\ sideIn\ \ \ \ the\ side\ the\ Storage\ facility\ is\ on,\ true\ for\ one\ side,\ false\ for\ the\ other\r\n
+comment1.params=sideIn\ storagePointIn
+comment1.target=Storage(boolean,\ int)
+comment1.text=\r\n\ Creates\ a\ Storage\ facility\ that\ requires\ a\ specified\ initial\ \r\n\ side,\ hitPoint,\ and\ initial\ storage\ point\r\n\r\n\ @param\ sideIn\ \ \ \ \ \ \ \ \ \ \ \ the\ side\ the\ Storage\ facility\ is\ on,\ true\ for\ one\ side,\ false\ for\ the\ other\r\n\ @param\ storagePointIn\ \ \ \ the\ inital\ storagePoint\ the\ storage\ facility\ will\ start\ off\ with\r\n
+comment2.params=storagePoint
+comment2.target=void\ setStoragePoint(int)
+comment2.text=\r\n\ Modifies\ storagePoint\ amount\ to\ a\ new\ amount\ \r\n\ \r\n\ @param\ storagePoint\ \ the\ new\ storagePoint\ amount\ that\ the\ storage\ facility\ will\ now\ have\r\n
+comment3.params=
+comment3.target=int\ getStoragePoint()
+comment3.text=\r\n\ Returns\ current\ storagePoint\ amount\ \r\n\r\n\ @return\ int\ \ the\ current\ storagePoint\ amount\r\n
+numComments=4

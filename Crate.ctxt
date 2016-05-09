@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=side
+comment0.target=Crate(boolean)
+comment0.text=\r\n\ Constructs\ a\ crate.\ Sets\ the\ size\ of\ the\ crate\ as\ well\ as\ which\ side\ it\ belongs\ to.\r\n\ @param\ side\ true-\ left\ side,\ false-\ right\ side\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ CollectableObjects\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Displays\ the\ animation\ of\ the\ crate\ when\ it\ gets\ thrown\ out\ of\ the\ ship.\r\n
+comment2.params=
+comment2.target=boolean\ getSide()
+comment2.text=\r\n\ Returns\ which\ side\ the\ crate\ belongs\ to.\r\n\ @return\ true\ -\ left\ side,\ false-\ right\ side\r\n
+numComments=3

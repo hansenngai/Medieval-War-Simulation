@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ship()
+comment0.text=\r\n\ Constructs\ the\ ship.\ \r\n\ Sets\ the\ speed\ of\ the\ ship.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Contorls\ the\ movement\ of\ the\ ship\ throught\ out\ the\ stimulation.\r\n
+comment2.params=
+comment2.target=void\ dropSupply()
+comment2.text=\r\n\ Drops\ the\ supply\ on\ the\ shore\ of\ the\ river\ once\ the\ ship\ is\ close\ to\ each\ base.\r\n
+comment3.params=
+comment3.target=void\ worldEdge()
+comment3.text=\r\n\ Removes\ the\ ship\ if\ hits\ the\ edge\ of\ the\ world.\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=basePoints1\ startBareFoot1\ spawnTime1\ startResearch1\ startStorage1\ basePoints2\ startBareFoot2\ spawnTime2\ startResearch2\ startStorage2
+comment0.target=Loading(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ class\ Loading.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Do\ whatever\ the\ loading\ class\ is\ called\ to\ do\ when\ the\ run\ button\ is\ pressed\r\n
+comment2.params=
+comment2.target=void\ checkFull()
+comment2.text=\r\n\ Checks\ to\ see\ if\ load\ bar\ is\ fully\ loaded\ and\ if\ so\ make\ the\ \r\n\ the\ black\ fade\ start\ fading.\r\n
+comment3.params=
+comment3.target=void\ goToField()
+comment3.text=\r\n\ Called\ to\ instantiate\ a\ new\ Field\ world\ to\ run\ the\ simulation\ with\ all\ the\ saved\ values\r\n\ that\ user\ inputted\r\n
+numComments=4

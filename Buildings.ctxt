@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getHitPoints()
+comment0.text=\r\n\ Returns\ current\ hitPoints\ amount\ of\ building\r\n\r\n\ @return\ int\ \ the\ current\ hit\ point\ of\ the\ main\ base\r\n
+comment1.params=
+comment1.target=boolean\ getSide()
+comment1.text=\r\n\ Returns\ the\ side\ the\ building\ is\ on\r\n\ \r\n\ @return\ boolean\ \ the\ side\ the\ buildin\ is\ on,\ true\ -\ left\ side,\ false\ -right\ side\r\n
+numComments=2

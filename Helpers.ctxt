@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ determineClosestTarget()
+comment0.text=\r\n\ A\ helper\ should\ collect/move\ towards\ an\ object\ and\ therefore\ should\ have\ a\ method\r\n\ that\ determines\ which\ object\ is\ closer\r\n
+comment1.params=
+comment1.target=void\ returnToBase()
+comment1.text=\r\n\ A\ helper\ should\ return\ to\ base\ after\ his\ mission\ has\ been\ served.\r\n
+numComments=2

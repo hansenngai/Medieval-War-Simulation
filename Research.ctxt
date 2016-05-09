@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=inputSide
+comment0.target=Research(boolean)
+comment0.text=\r\n\ Creates\ a\ research\ facility\ for\ an\ indicated\ side.\r\n\ \r\n\ @param\ inputSide\ Indicates\ which\ side\ the\ research\ building\ is\ for\r\n
+comment1.params=inputSide\ startResearchPoints
+comment1.target=Research(boolean,\ int)
+comment1.text=\r\n\ Creates\ a\ research\ facility\ for\ an\ indicated\ side\ with\ a\ predetermined\ starting\ research\ points.\r\n\ \r\n\ @param\ inputSide\ Indicates\ which\ side\ the\ research\ building\ is\ for.\r\n\ @param\ startResearchPoints\ Indicates\ the\ value\ of\ research\ points\ the\ army\ starts\ off\ with.\r\n
+comment2.params=
+comment2.target=void\ checkLevel()
+comment2.text=\r\n\ Checks\ the\ research\ points\ to\ determine\ what\ research\ level\ the\ army\ is\ at.\ \r\n
+comment3.params=points
+comment3.target=void\ setResearchPoints(int)
+comment3.text=\r\n\ Increases\ research\ points\ as\ a\ result\ of\ the\ death.\ (Will\ usually\ be\ as\ a\ result\ of\ a\ death)\r\n\ \r\n\ @param\ points\ The\ Amount\ of\ research\ points\ to\ be\ set.\r\n
+comment4.params=
+comment4.target=int\ getInitialPoint()
+comment4.text=\r\n\ Gets\ intital\ research\ point\r\n\ \r\n\ @return\ int\ \ The\ initial\ research\ points.\r\n
+comment5.params=
+comment5.target=int\ getResearchPoints()
+comment5.text=\r\n\ Gets\ the\ current\ value\ of\ research\ points.\r\n\ \r\n\ @return\ int\ The\ current\ amount\ of\ research\ points.\r\n
+comment6.params=
+comment6.target=int\ getResearchLevel()
+comment6.text=\r\n\ Gets\ the\ current\ research\ level.\r\n\ \r\n\ @return\ int\ The\ current\ research\ level.\r\n
+comment7.params=
+comment7.target=void\ act()
+numComments=8

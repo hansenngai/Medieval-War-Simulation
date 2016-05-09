@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Cannon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ Generates\ a\ random\ number\ that\ the\ cannon\ will\ shoot\ at\r\n
+comment1.params=
+comment1.target=void\ fire()
+comment1.text=\r\n\ Spawns\ a\ cannon\ ball\ on\ the\ screen.\ Gets\ called\ by\ the\ act\ method.\r\n
+comment2.params=
+comment2.target=void\ shootCannon()
+comment2.text=\r\n\ Shoots\ the\ cannon.\ (The\ random\ coordinates\ are\ in\ the\ act\ method)\r\n
+numComments=3
